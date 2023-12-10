@@ -17,21 +17,21 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ====================================
 
-# Process followed by me:
+#Process followed by me:
  Imported and Verified data.
  Applied few transformation 
  Created the Data model
  Created 27 key measures using DAX
  Creating a Dashboard using appropriate Visualisations.
 
-# KPIs/Metrics Used:
+#KPIs/Metrics Used:
 1) RevPar
 2) Occupancy %
 3) ADR, Realisation %
 4) DSRN, DBRN, DURN
 5) Cancellation %, Avg Rating
 
-# What new I learned from it for the first time?
+#What new I learned from it for the first time?
 1) Multiple KPIs (RevPar, ADR, Occupancy, Realisation, DSRN etc.) which are used in the hospitality domain 
 2) Use of Calendar Visual to analyze the daily revenue on monthly & weekly bases for AtliQ Grand Hotel chain.
 3) Used the "Treemap Visual" for the first time to track hotel's booking based on platform and room class.
